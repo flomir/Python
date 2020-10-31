@@ -1,3 +1,4 @@
+'''class'''
 class ConfigurationHelper:
     def __init__(self):
         print("Constructor")

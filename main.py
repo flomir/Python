@@ -1,3 +1,4 @@
+'''main'''
 from ConfigurationHelper import ConfigurationHelper
 
 def print_with_hello(name):
